@@ -1,0 +1,27 @@
+{
+  "name": "plumpjs-svg-fallback",
+  "version": "0.1.0",
+  "homepage": "https://github.com/plumpjs/google-map",
+  "authors": [
+    "James Howard <james@plumpdigital.co.uk>"
+  ],
+  "description": "MooTools SVG to PNG fallback.",
+  "main": "svg-fallback.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "MooTools",
+    "SVG",
+    "PNG",
+    "fallback"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
