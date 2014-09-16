@@ -14,9 +14,9 @@ window.svgFallback = (function() {
 
 	return {
 
-		init: function(className) {
+		init: function(selector) {
 			if (!this.supportsSvg()) {
-				this.elements = $$('.' + className);
+				this.elements = $$(selector);
 				this.applyFallbacks();
 			}
 		},
