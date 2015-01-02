@@ -1,3 +1,5 @@
+/* exported svgFallback */
+
 /**
  *    SVG fallback that replaces SVG images with PNG fallbacks, based
  *    on the class name passed to init.
